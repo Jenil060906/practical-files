@@ -11,6 +11,6 @@ void main(){
         printf("multiplication of all numbers between 1 to n:",ans);
         break;
     }
-  printf("This program is created by Jenil Viradia.")
+  printf("\nThis program is created by Jenil Viradia.")
 
 }
