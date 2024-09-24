@@ -27,6 +27,6 @@ void main(){
   else{
     printf("INVALID INPUT!!! Please enter the student's marks in the given range.. ");
   }
-  printf("This program is created by Jenil Viradia.")
+  printf("\nThis program is created by Jenil Viradia.")
 
 }
