@@ -2,5 +2,5 @@
 #include<stdio.h>
 void main(){
 //My first C program by using the printf functions.
-   printf("This program is created by Jenil Viradia.");
+   printf("\nThis program is created by Jenil Viradia.");
 }
