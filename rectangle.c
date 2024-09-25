@@ -13,5 +13,6 @@ void main(){
 //Calculating the perimeter by using the below formula.
     int p=2*(l+b);
     printf("The value of perimeter is: %d",p);
+printf("This program is created by Jenil Virdaia.")
 
 }
