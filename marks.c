@@ -1,3 +1,4 @@
+//To calculate the grade by observing the student's marks.
 #include<stdio.h>
 void main(){
 //Assigning 'm' as marks of the students.
