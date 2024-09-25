@@ -1,6 +1,6 @@
+//Calculating area and perimeter of a rectangle.
 #include<stdio.h>
 void main(){
-//Calculating area and perimeter of a rectangle.
 //Input the values of l and b as length and breadth of rectangle.
     int l,b;
     printf("Enter value of length:");
