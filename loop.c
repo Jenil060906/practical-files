@@ -1,3 +1,4 @@
+//To do continuous multiplication by adding one value each till the last number.
 #include<stdio.h>
 void main(){
 //Assigning n and ans as the number and the variable to which the continuous multiplication is going to take place till it reaches the last number.
