@@ -34,5 +34,5 @@ void A2(int a, int b, int c){
     int h=(s*(s-a)*(s-b)*(s-c));
     float A = sqrt(h);
     printf("%f",A);
-printf("This program is created by Jenil Viradia.")
+printf("\nThis program is created by Jenil Viradia.")
 }
